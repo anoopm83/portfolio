@@ -1,0 +1,13 @@
+# This repo is the portfolio site only. The portfolio folder also holds
+# several unrelated projects and scratch files, so ignore everything at the
+# root and explicitly allow just the site's own files.
+
+/*
+
+!.gitignore
+!README.md
+!index.html
+!styles.css
+!photo.jpg
+!resume.pdf
+!assets/
